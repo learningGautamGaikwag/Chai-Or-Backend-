@@ -1,3 +1,3 @@
-# Chai Or Backend Series
+# Chai Or BACKEND Series
 
-This Is a Video Series On JavaScript & Bakend
+- the lecture on Bakend
