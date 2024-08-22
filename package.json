@@ -1,0 +1,16 @@
+{
+  "name": "main-project",
+  "version": "1.0.0",
+  "description": "A Backend Chai Or Code Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend",
+    "chai"
+  ],
+  "author": "Kumar Gaikwad",
+  "license": "ISC"
+}
